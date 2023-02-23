@@ -1,9 +1,17 @@
-Hi there 👋 **I'm junior backend developer** using Java.
+Hi there! 👋 
+
+**I'm junior backend developer** using Java.
 
 - I enjoy yoga🧘🏻, taking a walk🚶🏻, and playing with Manet🐈!
 - I hope my work makes world better!
 
+### 💻 TECH STACKS
 
+- JAVA, Python, Node.js
+- Spring Framework
+- MySQL
+- AWS EC2, AWS S3, Docker
+- Git
 
 <!--
 **hyeonju01/hyeonju01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
