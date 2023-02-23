@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi there 👋 **I'm junior backend developer** using Java.
+
+- I enjoy yoga🧘🏻, taking a walk🚶🏻, and playing with Manet🐈!
+- I hope my work makes world better!
+
+
 
 <!--
 **hyeonju01/hyeonju01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
